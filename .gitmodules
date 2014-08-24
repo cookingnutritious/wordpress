@@ -4,3 +4,6 @@
 [submodule "wp-content/plugins/cn_wordpress-plugin"]
 	path = wp-content/plugins/cn_wordpress-plugin
 	url = git@github.com:cookingnutritious/cn_wordpress-plugin.git
+[submodule "wp-content/themes/food-recipes"]
+	path = wp-content/themes/food-recipes
+	url = git@github.com:cookingnutritious/food-recipes.git
